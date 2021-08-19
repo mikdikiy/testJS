@@ -1,0 +1,39 @@
+
+#arrea{
+    background-color: cadetblue;
+    border: tan 2px solid;
+    position: absolute;
+    width:  500px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    text-align:center;
+   
+}
+
+#board{
+    background-color: rgb(9, 41, 23,0.5);
+    border: rgb(0, 0, 0) 2px solid;
+    width:  50px;
+    height: 5px;
+    position: absolute;
+    left: 0px;
+    top: 495px;
+}
+
+#ball{
+    background-color: rgb(219, 110, 66);
+    border: black 2px solid;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    left: 0px;
+    top: 10px;
+}
+
+#keys{
+    position: absolute;
+    top: 510px;
+    
+}
